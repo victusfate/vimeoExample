@@ -1,0 +1,26 @@
+{
+  "name": "vimeoExample",
+  "version": "0.0.0",
+  "description": "messing around with vimeo api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victusfate/vimeoExample"
+  },
+  "keywords": [
+    "vimeo",
+    "api"
+  ],
+  "author": "Mark Essel @victusfate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victusfate/vimeoExample/issues"
+  },
+  "homepage": "https://github.com/victusfate/vimeoExample",
+  "dependencies": {
+    "vimeo-api": ">=0.0.0"
+  }
+}
